@@ -23,6 +23,15 @@ p {
     min-width: 400px;
 }
 
+.footerbox{
+    background-color: white;
+    border: 5px solid;
+    border-color: black;
+    color: black;
+}
+
+
+
 #divisionsum{
     width: 40px;
     height: 40px;
