@@ -1,5 +1,5 @@
 html {
-    background-color: #00a185;
+    background-color: #1fce6d;
 }
 p {
     color: black;
@@ -7,9 +7,18 @@ p {
 
 .box {
     background-color: white;
-    border: 1px;
-    border-color: beige;
+    border: 5px solid;
+    border-color: black;
     color: black;
+
+    padding: 2%;
+
+    margin: auto;
+
+    margin-bottom: 3%;
+
+    width: fit-content;
+    min-width: 400px;
 }
 
 #divisionsum{
