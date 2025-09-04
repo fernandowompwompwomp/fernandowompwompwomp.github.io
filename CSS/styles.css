@@ -11,6 +11,8 @@ p {
     border-color: black;
     color: black;
 
+    position: relative;
+
     padding: 2%;
 
     margin: auto;
@@ -35,3 +37,31 @@ p {
 .centered {
     text-align: center;
 }
+
+
+
+.box .cornerimg{
+    height: 80px;
+    width: 65px;
+
+
+    position: absolute;
+}
+
+.toprightimg{
+
+    transform: rotate(30deg);
+
+
+    top: -30px;
+    right: -30px;
+}
+
+.bottomleftimg{
+
+    transform: rotate(230deg);
+
+    bottom: -30px;
+    left: -30px;
+}
+
