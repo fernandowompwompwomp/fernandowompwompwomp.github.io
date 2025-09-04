@@ -1,0 +1,37 @@
+html {
+    background-color: #1fce6d;
+}
+p {
+    color: black;
+}
+
+.box {
+    background-color: white;
+    border: 5px solid;
+    border-color: black;
+    color: black;
+
+    padding: 2%;
+
+    margin: auto;
+
+    margin-bottom: 3%;
+
+    width: fit-content;
+    min-width: 400px;
+}
+
+#divisionsum{
+    width: 40px;
+    height: 40px;
+}
+
+
+.head {
+    width: fit-content;
+    text-align: center;
+}
+
+.centered {
+    text-align: center;
+}
