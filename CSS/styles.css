@@ -1,0 +1,28 @@
+html {
+    background-color: #00a185;
+}
+p {
+    color: black;
+}
+
+.box {
+    background-color: white;
+    border: 1px;
+    border-color: beige;
+    color: black;
+}
+
+#divisionsum{
+    width: 40px;
+    height: 40px;
+}
+
+
+.head {
+    width: fit-content;
+    text-align: center;
+}
+
+.centered {
+    text-align: center;
+}
